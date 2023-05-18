@@ -1,0 +1,9 @@
+name: WebsitePlugin
+version: r1.0
+main: com.alphaanarchy.WebPlugin.WebPlugin
+description: adds website command
+
+commands:
+    website:
+        usage: /<website>
+  
